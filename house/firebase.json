@@ -1,0 +1,11 @@
+{
+    "hosting": {
+      "site": "house1-2dc63",
+  
+      "public": "public",
+    
+      "build": {
+        "command": "npm run build"
+      }
+    }
+  }
